@@ -1,0 +1,17 @@
+{
+  "testedAt": "2026-10-16T12:30:27.470Z",
+  "browser": "Installed Google Chrome via Playwright, headless; WebGL2 available",
+  "issues": {
+    "errors": [],
+    "warnings": [],
+    "failedRequests": [],
+    "badResponses": []
+  },
+  "checks": [
+    "Start, orbit drag and wheel zoom work",
+    "Winter and snowfall transition verified",
+    "UI hide/restore, credits and fullscreen control exercised",
+    "Production refresh renders successfully",
+    "390px opening layout captured"
+  ]
+}

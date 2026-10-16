@@ -1,0 +1,15 @@
+{
+  "testedAt": "2026-10-16T12:27:31.726Z",
+  "browser": "Installed Google Chrome via Playwright, headless; WebGL2 available",
+  "issues": {
+    "errors": [],
+    "warnings": [
+      "THREE.WebGLShadowMap: PCFSoftShadowMap has been deprecated. Using PCFShadowMap instead."
+    ],
+    "failedRequests": [],
+    "badResponses": []
+  },
+  "checks": [
+    "Original forest renderer reached ready state with live WebGL canvas"
+  ]
+}
